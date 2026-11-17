@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tafsir_qattan",
+    "title": "تيسير التفسير",
+    "author": "إبراهيم القطان",
+    "asset": "assets/data/tafsir_qattan.json",
+    "ayahCount": 6236
+  },
+  {
+    "id": "tafsir_muyassar",
+    "title": "التفسير الميسّر",
+    "author": "مجمع الملك فهد لطباعة المصحف الشريف",
+    "asset": "assets/data/tafsir_muyassar.json",
+    "ayahCount": 6236
+  },
+  {
+    "id": "tafsir_jalalayn",
+    "title": "تفسير الجلالين",
+    "author": "جلال الدين المحلي وجلال الدين السيوطي",
+    "asset": "assets/data/tafsir_jalalayn.json",
+    "ayahCount": 6224
+  },
+  {
+    "id": "tafsir_durr",
+    "title": "الدر المنثور",
+    "author": "جلال الدين السيوطي",
+    "asset": "assets/data/tafsir_durr.json",
+    "ayahCount": 4427
+  }
+]
